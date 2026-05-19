@@ -46,15 +46,6 @@ cd PlakaTanimaSistemi
 
 3. Gerekli NuGet paketlerini yükleyin
 
-4. Veritabanı komut dosyalarını çalıştırın:
-   - SQLQuery1.sql
-   - SQLQuery2.sql
-   - SQLQuery3.sql
-   - SQLQuery4.sql
-   - SQLQuery5.sql
-   - SQLQuery6.sql
-
-5. Uygulamayı derleyin ve çalıştırın
 
 ## Veritabanı
 
@@ -79,28 +70,3 @@ PlakaTanimaSistemi/
 4. Bilgileri veritabanına kaydedin
 5. Raporları oluşturun ve dışa aktarın
 
-## Katkıda Bulunma
-
-Projeye katkıda bulunmak istiyorsanız:
-
-1. Depoyu fork edin
-2. Özellik dalı oluşturun (`git checkout -b ozellik/YeniOzellik`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Yeni özellik ekle'`)
-4. Dalınıza push yapın (`git push origin ozellik/YeniOzellik`)
-5. Pull Request açın
-
-## Gereksinimler
-
-- Windows 7 veya daha yeni
-- .NET Framework 4.7.2 veya üzeri
-- SQL Server 2016 veya daha yeni
-- Minimum 2GB RAM
-- 500MB boş disk alanı
-
-## Lisans
-
-Bu proje açık kaynak koşullarında yayınlanmıştır.
-
-## İletişim
-
-Sorularınız veya önerileriniz için lütfen [Issues](https://github.com/Mahmutgovce/PlakaTanimaSistemi/issues) bölümünü kullanın.
